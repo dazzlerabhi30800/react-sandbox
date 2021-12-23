@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import UseCallbackExample  from './components/UseCallbackExample';
+import CustomHookExample1  from './components/CustomHookExample1';
 
 function App() {
   return (
     <div className="container mt-5">
-     <UseCallbackExample />
+     <CustomHookExample1 />
     </div>
   );
 }
