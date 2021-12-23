@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import UseRefExample3  from './components/UseRefExample3';
+import UseMemoExample  from './components/UseMemoExample';
 
 function App() {
   return (
     <div className="container mt-5">
-     <UseRefExample3 />
+     <UseMemoExample />
     </div>
   );
 }
